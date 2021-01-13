@@ -42,3 +42,6 @@ ___
 
 * Integração Typescript X ESLint
 > npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser -D 
+
+* Prettier
+> npm i prettier eslint-config-prettier eslint-plugin-prettier -D
