@@ -30,8 +30,15 @@
 ## Extensões Recomendadas Visual Studio Code
 ___
 * Code Runner
+* ESLint
 
  ## Dependências
  ____
 * TS Node
 > npm i ts-node -D
+
+* ESLint
+> npm i eslint -D
+
+* Integração Typescript X ESLint
+> npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser -D 
